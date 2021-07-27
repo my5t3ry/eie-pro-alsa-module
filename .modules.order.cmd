@@ -1,0 +1,1 @@
+cmd_/home/my5t3ry/codeBase/c/eie-pro-alsa-module/modules.order := {   echo /home/my5t3ry/codeBase/c/eie-pro-alsa-module/eie-pro.ko; :; } | awk '!x[$$0]++' - > /home/my5t3ry/codeBase/c/eie-pro-alsa-module/modules.order

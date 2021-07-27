@@ -1,0 +1,1 @@
+cmd_/home/my5t3ry/codeBase/c/eie-pro-alsa-module/eie-pro.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/my5t3ry/codeBase/c/eie-pro-alsa-module/eie-pro.ko /home/my5t3ry/codeBase/c/eie-pro-alsa-module/eie-pro.o /home/my5t3ry/codeBase/c/eie-pro-alsa-module/eie-pro.mod.o;  true
